@@ -72,3 +72,9 @@ The BasicCalculator class contains the main method, which drives the program.
  5.Mathematical Operations:
  Basic arithmetic operations (+, -, *, /), modulo operation (%), and methods from the Math class (Math.floor, Math.round) are used for calculations.
 
+**Result**
+![task-1](https://github.com/user-attachments/assets/bcfe0115-d15a-489a-8266-db46f85fa611)
+
+
+![how to record screen in windows 10 - Google Search - Google Chrome 01-09-2024 12_28_37](https://github.com/user-attachments/assets/047c6532-c128-4fc0-bc90-a1df9745d32f)
+
