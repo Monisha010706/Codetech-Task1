@@ -1,9 +1,11 @@
 Description of Task-1:
 
 **Overview**
+
 The Extended Calculator is a command-line Java application designed to perform a variety of numeric operations. It enables users to input two numbers and choose from several mathematical operations, including addition, subtraction, multiplication, division, modulo, floor, and round. The program calculates and displays results based on the selected operation.
 
 **Features**
+
 1. Arithmetic Operations:
 
 Addition: Computes the sum of two numbers.
@@ -18,6 +20,7 @@ Modulo Operation:Computes the remainder when the first number is divided by the 
 
 
 **How It Works**
+
 1. User Input:
 The program prompts the user to enter two numbers (num1 and num2) for numeric operations.
 It then asks the user to select an operation from a menu.
@@ -41,6 +44,7 @@ If the user selects an invalid operation, the program notifies them of the error
 
 
 **Code Structure**
+
 1. Imports:
 import java.util.Scanner; is used to handle user input.
 
